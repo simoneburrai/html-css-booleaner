@@ -1,3 +1,4 @@
+/*header*/
 #logo {
     width: 200px;
     height: 200px;
@@ -6,13 +7,18 @@
 header {
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
-    background-size: 00px;
+    background-size: 400px;
     background-color: #4EA0FF;
     background-attachment: scroll;
 }
+/*header */
 
 #site-name{
     color:rgb(20, 179, 150);
+}
+
+#date {
+    font-size: small;
 }
 
 .intestazione span{
@@ -22,3 +28,19 @@ header {
 .highlights {
     background-color: yellow;
 }
+
+/*Table */
+thead {
+    background-color: #20a9ef;
+    color: white;
+}
+
+.highlitght-row {
+    background-color: #B1E5F2;
+}
+
+table {
+    width: 100%;
+    table-layout:fixed;
+}
+/*Table */
