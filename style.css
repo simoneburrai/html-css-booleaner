@@ -18,3 +18,7 @@ header {
 .intestazione span{
     color: grey;
 }
+
+.highlights {
+    background-color: yellow;
+}
