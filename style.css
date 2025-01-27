@@ -6,7 +6,15 @@
 header {
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
-    background-size: 400px;
+    background-size: 00px;
     background-color: #4EA0FF;
     background-attachment: scroll;
+}
+
+#site-name{
+    color:rgb(20, 179, 150);
+}
+
+.intestazione span{
+    color: grey;
 }
