@@ -9,7 +9,6 @@ header {
     background-repeat: repeat-x;
     background-size: 400px;
     background-color: #4EA0FF;
-    background-attachment: scroll;
 }
 /*header */
 
@@ -44,3 +43,33 @@ table {
     table-layout:fixed;
 }
 /*Table */
+
+/*footer*/
+
+footer h3{
+    color: grey;
+    font-size:medium;
+}
+
+footer div {
+    width: 200px;
+    height: 200px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+
+#addition1 {
+    background-image: url(img/monitor.jpg);
+}
+
+#addition2 {
+    background-image: url(img/graph.jpg);
+}
+
+
+/*footer*/
